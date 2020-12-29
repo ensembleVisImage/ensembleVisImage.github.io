@@ -5,7 +5,7 @@
  * @Description: 
  * @FilePath: /VisImageNavigator.github.io/README.md
  -->
-# visimagenavigator
+# ensembleVisImageNavigator
 
-https://visimagenavigator.github.io/
+https://ensemblevisimage.github.io/
 
