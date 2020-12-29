@@ -278,7 +278,7 @@ async function dbStart() {
         if ($('#tvcg-check').prop("checked")) {
             $('#tvcg-check-label').css('background', confDic['TVCG']);
             $('#tvcg-check-label').css('border', '0px');
-            activeConf.push('VAST');
+            activeConf.push('TVCG');
         } else {
             $('#tvcg-check-label').css('background', '#fff');
             $('#tvcg-check-label').css('border', '1px solid #95a5a6');
@@ -287,7 +287,7 @@ async function dbStart() {
         if ($('#sigchi-check').prop("checked")) {
             $('#sigchi-check-label').css('background', confDic['SIGCHI']);
             $('#sigchi-check-label').css('border', '0px');
-            activeConf.push('VAST');
+            activeConf.push('SIGCHI');
         } else {
             $('#sigchi-check-label').css('background', '#fff');
             $('#sigchi-check-label').css('border', '1px solid #95a5a6');
@@ -296,7 +296,7 @@ async function dbStart() {
         if ($('#joep-check').prop("checked")) {
             $('#joep-check-label').css('background', confDic['JExpPsychol']);
             $('#joep-check-label').css('border', '0px');
-            activeConf.push('VAST');
+            activeConf.push('JExpPsychol');
         } else {
             $('#joep-check-label').css('background', '#fff');
             $('#joep-check-label').css('border', '1px solid #95a5a6');
