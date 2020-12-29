@@ -12,7 +12,7 @@ var stk2 = {
 
 stk2.cnt = Math.floor(($( window ).width() - 100 - stk2.x0) / stk2.w)
 
-var confs = ['InfoVis', 'VAST', 'SciVis'],
+var confs = ['InfoVis', 'VAST', 'SciVis', 'TVCG', 'SIGCHI', 'JExpPsychol'],
     ycoords = {};
 
 var stacked_layout2 = function() {

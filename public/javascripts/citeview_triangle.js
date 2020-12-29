@@ -7,7 +7,7 @@ var tri = {
     w: 20
 }
 
-var confs = ['InfoVis', 'SciVis', 'VAST']
+var confs = ['InfoVis', 'VAST', 'SciVis', 'TVCG', 'SIGCHI', 'JExpPsychol']
 
 
 var triangular_layout = function() {

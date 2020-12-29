@@ -416,6 +416,12 @@ function presentPaperCards(paperData, totalCount) {
                 conf_div.className = "conf-div conf-div-InfoVis";
             } else if (conf == "VAST") {
                 conf_div.className = "conf-div conf-div-VAST";
+            } else if (conf == "TVCG") {
+                conf_div.className = "conf-div conf-div-TVCG";
+            } else if (conf == "SIGCHI") {
+                conf_div.className = "conf-div conf-div-SIGCHI";
+            } else if (conf == "JExpPsychol") {
+                conf_div.className = "conf-div conf-div-JExpPsychol";
             }
 
             conf_div.innerHTML = `

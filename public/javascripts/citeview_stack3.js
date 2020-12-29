@@ -11,7 +11,7 @@ var stk3 = {
 stk3.cnt = stk2.cnt
 
 
-var confs = ['InfoVis', 'VAST', 'SciVis'];
+var confs = ['InfoVis', 'VAST', 'SciVis', 'TVCG', 'SIGCHI', 'JExpPsychol'];
 
 var stacked_layout3 = function() {
 
